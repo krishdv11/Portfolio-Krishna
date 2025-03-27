@@ -182,7 +182,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a app as beautiful as our product, but Rick proved me wrong.',
+      'I thought it was impossible to make an app as beautiful as our product, but Rick proved me wrong.',
     name: 'Sara Lee',
     designation: 'CFO',
     company: 'Acme Co',
@@ -190,7 +190,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a iOS developer who truly cares about their clients' success like Rick does.",
+      "I've never met an iOS developer who truly cares about their clients' success like Rick does.",
     name: 'Chris Brown',
     designation: 'COO',
     company: 'DEF Corp',

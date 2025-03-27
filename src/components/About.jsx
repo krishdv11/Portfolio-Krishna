@@ -45,7 +45,7 @@ const About = () => {
         expertise in Swift (iOS), backend systems, database management, and
         scalable architectures, I specialize in building robust applications
         that enhance user experience and business efficiency. I have a strong
-        background in mobile and web application development, system design, and
+        background in mobile application development, system design, and
         API integrations.
       </motion.p>
 
