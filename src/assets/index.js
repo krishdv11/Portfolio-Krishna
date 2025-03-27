@@ -20,7 +20,7 @@ import sublimeText from './tech/sublimeText.png';
 import disitral from './company/digitral_innovation.png';
 import handsInTech from './company/handsInTechnology.png';
 import webwing from './company/webwing.png';
-import appTech from './company/AppTech.png';
+import appTech from './company/appTech.png';
 
 import project1 from './projects/project1.png';
 import project2 from './projects/project2.png';
